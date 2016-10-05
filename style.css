@@ -5,13 +5,15 @@
   font-size: 15px;
 }
 
-h2 {
-  position: absolute;
+.name {
+  position: fixed;
   top: 200px;
   left: 0;
   width: 100%;
   color: white;
   text-align: justify;
+  font-size: 20px;
+  font-size: 2vw;
 }
 
 .footer-background {
@@ -19,4 +21,5 @@ h2 {
   color: white;
   padding-top: 20px;
   padding-bottom: 20px;
+  position: relative;
 }
